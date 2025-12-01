@@ -1,0 +1,38 @@
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyElectronicDiary.csproj.AssemblyReference.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\MainWindow.baml
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\MainWindow.g.cs
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\App.g.cs
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1_Content.g.cs
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1_MarkupCompile.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.g.resources
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо_говоря_электронный_дневник_1.Properties.Resources.resources
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyElectronicDiary.csproj.GenerateResource.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\Грубо говоря электронный дневник 1.exe.config
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\Грубо говоря электронный дневник 1.exe
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\Грубо говоря электронный дневник 1.pdb
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\EntityFramework.dll
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\EntityFramework.xml
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyE.651D1DDA.Up2Date
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.exe
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.pdb
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\Грубо говоря электронный дневник 1.exe.config
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\Грубо говоря электронный дневник 1.exe
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\Грубо говоря электронный дневник 1.pdb
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\EntityFramework.dll
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\EntityFramework.xml
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyElectronicDiary.csproj.AssemblyReference.cache
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\MainWindow.baml
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\MainWindow.g.cs
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\App.g.cs
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1_Content.g.cs
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1_MarkupCompile.cache
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.g.resources
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо_говоря_электронный_дневник_1.Properties.Resources.resources
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyElectronicDiary.csproj.GenerateResource.cache
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\RoughlyE.651D1DDA.Up2Date
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.exe
+C:\Users\poiop\OneDrive\Desktop\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.pdb

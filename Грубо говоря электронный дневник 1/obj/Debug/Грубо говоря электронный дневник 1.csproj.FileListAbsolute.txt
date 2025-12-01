@@ -1,0 +1,10 @@
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.csproj.AssemblyReference.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\MainWindow.baml
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\MainWindow.g.cs
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\App.g.cs
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1_Content.g.cs
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1_MarkupCompile.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.g.resources
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо_говоря_электронный_дневник_1.Properties.Resources.resources
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.csproj.GenerateResource.cache
+C:\Users\MOD PC COMPANY\source\repos\Грубо говоря электронный дневник 1\Грубо говоря электронный дневник 1\obj\Debug\Грубо говоря электронный дневник 1.csproj.CoreCompileInputs.cache

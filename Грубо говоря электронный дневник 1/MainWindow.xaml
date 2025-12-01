@@ -1,0 +1,66 @@
+﻿<Window x:Class="DiaryApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Грубо говоря электронный дневник
+" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="31*"/>
+            <ColumnDefinition Width="214*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.ColumnSpan="2">
+            <Image Source="/penguins.jpg.jpg"
+           Height="80"
+           Width="120"
+           Stretch="UniformToFill"
+           Margin="0,0,20,0"/>
+
+            <TextBlock VerticalAlignment="Center"
+               FontSize="30"
+               FontWeight="Bold"><Run Text="Грубо говоря "/><Run Language="ru-ru" Text="э"/><Run Text="лектронный дневник"/></TextBlock>
+        </StackPanel>
+
+
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,10,0,10" Grid.ColumnSpan="2">
+            <StackPanel Margin="10">
+                <TextBlock Text="Поиск по ученику"/>
+                <TextBox Width="200" Name="txtStudent" 
+                         TextChanged="Filter_Changed"/>
+            </StackPanel>
+
+            <StackPanel Margin="10">
+                <TextBlock Text="Поиск по предмету"/>
+                <TextBox Width="200" Name="txtSubject"
+                         TextChanged="Filter_Changed"/>
+            </StackPanel>
+
+            <StackPanel Margin="10">
+                <TextBlock Text="Сортировка"/>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="A–Я" Width="80" Margin="5"
+                            Click="BtnSortAsc_Click"/>
+                    <Button Content="Я–A" Width="80" Margin="5"
+                            Click="BtnSortDesc_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+
+        <DataGrid Grid.Row="2" Name="dgDiary"
+                  AutoGenerateColumns="True"
+                  IsReadOnly="True"
+                  FontSize="16"
+                  Margin="0,10,0,10" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
